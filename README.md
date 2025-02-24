@@ -4,7 +4,7 @@ Scratch GUI is a set of React components that comprise the interface for creatin
 
 To open the current build in your browser on Github Pages:
 
-https://scratchfoundation.github.io/scratch-gui/
+<a href="https://naomyadav.github.io/scratch-gui-class/">https://scratchfoundation.github.io/scratch-gui/</a>
 
 ## Installation
 
